@@ -53,7 +53,7 @@ public class test1 {
 			  alphabetStrings[j] = String.valueOf(j);
 		  }
 			BPlusTree<String, String> tree = new BPlusTree<String, String>();
-			Utils.bulkInsert(tree, alphabetStrings, alphabet);// key alphabet, value alphabetString
+			Utils.bulkInsert(tree, alphabetStrings, alphabet);// key alphabetString, value alphabet
 
 			//String test = Utils.outputTree(tree);
 			tree.remove(String.valueOf(0));
