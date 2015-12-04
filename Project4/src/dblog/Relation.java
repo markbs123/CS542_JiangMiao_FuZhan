@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 
 /**
- * @author Jiang Miao Fu Zhan
+ * @author Jiang Miao
  * @date Nov 22, 2015 10:28:43 AM
  * @parameter
  * @since
@@ -174,8 +174,8 @@ public class Relation {
 //        }
 //        
         int j = location(column, attri1); // get the specific location of this attribute in db file
-
-        line = br.readLine();
+        
+      //  line = br.readLine();
 		while ((line = br.readLine())!=null) { // operation the data from the second line
         	System.out.println(line);
                 String[] atts = line.split(",");
@@ -242,9 +242,7 @@ public class Relation {
 
         String[] attri1= line.split(",");               
         int j = location(column, attri1); //  get the specific location of this attribute in db file
-
-        br1.readLine();
-        
+       // br1.readLine();       
         while ((line = br1.readLine())!=null) {
 
                 String[] atts = line.split(",");

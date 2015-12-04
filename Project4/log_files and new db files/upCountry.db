@@ -1,4 +1,5 @@
 Code, Name, Continent, Region, SurfaceArea, IndepYear, Population, LifeExpectancy, GNP, GNPOld, LocalName, GovernmentForm, HeadOfState, Capital, Code2
+'ABW','Aruba','North America','Caribbean',193.00,NULL,105060,78.4,828.00,793.00,'Aruba','Nonmetropolitan Territory of The Netherlands','Beatrix',129,'AW'
 'AFG','Afghanistan','Asia','Southern and Central Asia',652090.00,1919,23174400,45.9,5976.00,NULL,'Afganistan/Afqanestan','Islamic Emirate','Mohammad Omar',1,'AF'
 'AGO','Angola','Africa','Central Africa',1246700.00,1975,13135560,38.3,6648.00,7984.00,'Angola','Republic','José Eduardo dos Santos',56,'AO'
 'AIA','Anguilla','North America','Caribbean',96.00,NULL,8160,76.1,63.20,NULL,'Anguilla','Dependent Territory of the UK','Elisabeth II',62,'AI'
